@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MATLABProject xmlns="http://www.mathworks.com/MATLABProjectFile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0"/>
+<MATLABProject xmlns="http://www.mathworks.com/MATLABProjectFile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <Project>
+    <DefinitionFile>resources/project/uuid-5441e251-096e-408e-9b37-ccde13838a77.xml</DefinitionFile>
+  </Project>
+</MATLABProject>
